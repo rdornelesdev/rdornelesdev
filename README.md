@@ -19,7 +19,7 @@
   <img align="center" alt="Ramon-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Ramon-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg">
   <img align="center" alt="Ramon-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/dmaster/icons/prometheus/prometheus-plain-wordmark.svg">
-  <img align="center" alt="Ramon-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/dmaster/icons/grafana/grafana-original-wordmark.svg">
+  <img align="center" alt="Ramon-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg">
 </div>
 
   ##
