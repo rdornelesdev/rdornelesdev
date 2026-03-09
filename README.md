@@ -1,4 +1,4 @@
-## Opa! 👋 eu sou Ramon Dorneles, desenvolvedor fullstack e um completo apaixonado pelo mundo da programação!
+## Opa! 👋 Me chamo Ramon, desenvolvedor fullstack e um completo apaixonado pelo mundo da programação!
 
 
 
