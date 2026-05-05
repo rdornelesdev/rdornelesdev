@@ -1,4 +1,4 @@
-## Opa! 👋 Me chamo Ramon, desenvolvedor fullstack e um completo apaixonado pelo mundo da programação!
+## Opa! 👋 Me chamo Ramon, desenvolvedor backend e um completo apaixonado pelo mundo da programação!
 
 
 
