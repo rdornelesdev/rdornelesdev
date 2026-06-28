@@ -25,7 +25,7 @@ Desenvolvedor Backend apaixonado por transformar problemas complexos em código 
 ---
 
 ## 🚀 Projetos em Destaque
-- **[Secure User Auth & CRUD System](https://github.com/rdornelesdev/crud-json)**: Aplicação C# com foco em segurança (PBKDF2/SHA-256) e persistência de dados.
+- **[Secure User Auth & CRUD System](https://github.com/rdornelesdev/SecureUserSystem-CSharp)**: Aplicação C# com foco em segurança (PBKDF2/SHA-256) e persistência de dados.
 
 ---
 
