@@ -1,24 +1,38 @@
-## Opa! 👋 Me chamo Ramon, desenvolvedor backend e um completo apaixonado pelo mundo da programação!
+# Olá! 👋 Me chamo Ramon
 
-
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" width="40" /></td>
-  </tr>
-</table>
+Desenvolvedor Backend apaixonado por transformar problemas complexos em código limpo e seguro. Atualmente, meu foco total é o ecossistema **.NET**.
 
 ---
 
-<div> 
-  <a href="https://instagram.com/rdorneless" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:dsramondev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## 💻 Tech Stack Principal
+*Minhas ferramentas de batalha diárias:*
+
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
+
+---
+
+## 📚 Conhecimentos Adicionais
+*Tecnologias com as quais tenho familiaridade e estudo constante:*
+
+- **Web:** HTML5, CSS3, JavaScript e noções de TypeScript.
+- **Backend:** Experiência básica com Node.js.
+
+---
+
+## 🚀 Projetos em Destaque
+- **[Secure User Auth & CRUD System](https://github.com/rdornelesdev/crud-json)**: Aplicação C# com foco em segurança (PBKDF2/SHA-256) e persistência de dados.
+
+---
+
+## 📬 Vamos nos conectar?
+
+<a href="https://linkedin.com/in/rdorneless" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dsramondev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+---
+*Em constante aprendizado e aberto a novos desafios no mundo do desenvolvimento backend.*
