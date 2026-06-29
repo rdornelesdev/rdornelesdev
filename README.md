@@ -24,11 +24,6 @@ Desenvolvedor Backend apaixonado por transformar problemas complexos em código 
 
 ---
 
-## 🚀 Projetos em Destaque
-- **[Secure User Auth & CRUD System](https://github.com/rdornelesdev/SecureUserSystem-CSharp)**: Aplicação C# com foco em segurança (PBKDF2/SHA-256) e persistência de dados.
-
----
-
 ## 📬 Vamos nos conectar?
 
 <a href="https://linkedin.com/in/rdorneless" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
